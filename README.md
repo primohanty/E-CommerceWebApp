@@ -16,4 +16,7 @@ This project is an E-Commerce Web App developed using ReactJS and Tailwind CSS.
 - ReactJS
 - Tailwind CSS
 
+## ScreenShots
+![HomePage][https://github.com/primohanty/E-CommerceWebApp/blob/main/Homepage.png]
+
 
